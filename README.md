@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/vinayakbansal2006/leet-code/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/vinayakbansal2006/leet-code/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
