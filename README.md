@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/vinayakbansal2006/leet-code/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vinayakbansal2006/leet-code/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vinayakbansal2006/leet-code/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
 ## Database
 |  |
@@ -48,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
