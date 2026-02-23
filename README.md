@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/vinayakbansal2006/leet-code/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vinayakbansal2006/leet-code/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/vinayakbansal2006/leet-code/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -84,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/vinayakbansal2006/leet-code/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
