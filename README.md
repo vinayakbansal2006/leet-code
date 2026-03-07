@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vinayakbansal2006/leet-code/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vinayakbansal2006/leet-code/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/vinayakbansal2006/leet-code/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Math
 |  |
@@ -107,14 +109,32 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/vinayakbansal2006/leet-code/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
