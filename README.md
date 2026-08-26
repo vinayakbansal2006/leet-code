@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/vinayakbansal2006/leet-code/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vinayakbansal2006/leet-code/tree/master/0274-h-index) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vinayakbansal2006/leet-code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/vinayakbansal2006/leet-code/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Math
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vinayakbansal2006/leet-code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/vinayakbansal2006/leet-code/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
 ## Depth-First Search
 |  |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Matrix
 |  |
@@ -157,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
