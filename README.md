@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vinayakbansal2006/leet-code/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/vinayakbansal2006/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/vinayakbansal2006/leet-code/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1672-richest-customer-wealth](https://github.com/vinayakbansal2006/leet-code/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
