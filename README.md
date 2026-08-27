@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vinayakbansal2006/leet-code/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/vinayakbansal2006/leet-code/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0058-length-of-last-word](https://github.com/vinayakbansal2006/leet-code/tree/master/0058-length-of-last-word) |
 | [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
+| [0412-fizz-buzz](https://github.com/vinayakbansal2006/leet-code/tree/master/0412-fizz-buzz) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vinayakbansal2006/leet-code/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/vinayakbansal2006/leet-code/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
