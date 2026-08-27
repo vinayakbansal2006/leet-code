@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
+| [1470-shuffle-the-array](https://github.com/vinayakbansal2006/leet-code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vinayakbansal2006/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vinayakbansal2006/leet-code/tree/master/1672-richest-customer-wealth) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/vinayakbansal2006/leet-code/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
