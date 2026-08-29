@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/vinayakbansal2006/leet-code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinayakbansal2006/leet-code/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vinayakbansal2006/leet-code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/vinayakbansal2006/leet-code/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/vinayakbansal2006/leet-code/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
 | [0412-fizz-buzz](https://github.com/vinayakbansal2006/leet-code/tree/master/0412-fizz-buzz) |
