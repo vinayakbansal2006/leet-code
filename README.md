@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/vinayakbansal2006/leet-code/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/vinayakbansal2006/leet-code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinayakbansal2006/leet-code/tree/master/0283-move-zeroes) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vinayakbansal2006/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vinayakbansal2006/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vinayakbansal2006/leet-code/tree/master/0412-fizz-buzz) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
