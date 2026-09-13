@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/vinayakbansal2006/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vinayakbansal2006/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vinayakbansal2006/leet-code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/vinayakbansal2006/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinayakbansal2006/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vinayakbansal2006/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vinayakbansal2006/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vinayakbansal2006/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vinayakbansal2006/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinayakbansal2006/leet-code/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vinayakbansal2006/leet-code/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/vinayakbansal2006/leet-code/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
 ## String
@@ -219,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinayakbansal2006/leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
