@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/vinayakbansal2006/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/vinayakbansal2006/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/vinayakbansal2006/leet-code/tree/master/1470-shuffle-the-array) |
