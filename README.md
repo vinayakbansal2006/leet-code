@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/vinayakbansal2006/leet-code/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vinayakbansal2006/leet-code/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1470-shuffle-the-array](https://github.com/vinayakbansal2006/leet-code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vinayakbansal2006/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/vinayakbansal2006/leet-code/tree/master/1672-richest-customer-wealth) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinayakbansal2006/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vinayakbansal2006/leet-code/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vinayakbansal2006/leet-code/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/vinayakbansal2006/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vinayakbansal2006/leet-code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/vinayakbansal2006/leet-code/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 ## Quicksort
 |  |
 | ------- |
