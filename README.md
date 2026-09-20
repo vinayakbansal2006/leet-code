@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayakbansal2006/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/vinayakbansal2006/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vinayakbansal2006/leet-code/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/vinayakbansal2006/leet-code/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/vinayakbansal2006/leet-code/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayakbansal2006/leet-code/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/vinayakbansal2006/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/vinayakbansal2006/leet-code/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/vinayakbansal2006/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/vinayakbansal2006/leet-code/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Math
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/vinayakbansal2006/leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/vinayakbansal2006/leet-code/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
