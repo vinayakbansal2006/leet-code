@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/vinayakbansal2006/leet-code/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vinayakbansal2006/leet-code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/vinayakbansal2006/leet-code/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vinayakbansal2006/leet-code/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayakbansal2006/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/vinayakbansal2006/leet-code/tree/master/0139-word-break) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vinayakbansal2006/leet-code/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/vinayakbansal2006/leet-code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vinayakbansal2006/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/vinayakbansal2006/leet-code/tree/master/0704-binary-search) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vinayakbansal2006/leet-code/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/vinayakbansal2006/leet-code/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
